@@ -1,0 +1,5 @@
+AccountID,NumAlerts,MaxScore,AvgScore,RiskLevel
+10009,1,0.6,0.6,LOW
+10011,1,0.6,0.6,LOW
+10048,1,0.6,0.6,LOW
+10108,2,0.6,0.6,LOW
